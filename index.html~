@@ -1,6 +1,9 @@
 <!DOCTYPE HTML>
 <head>
+	<title>Radix-Gamma Labs</title>
+	<link rel="icon" type="image/x-icon" href="/ico/favicon.ico">
 </head>
 <body>
-<p>This is a test of the Github Pages</p>
+	<h1>Radix-Gamma Labs</h1>
+	<p>This is a test of the Github Pages</p>
 </body>
