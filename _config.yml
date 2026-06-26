@@ -6,4 +6,4 @@ url: "https://the-red-crow.github.io"
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Exploring: "research\msthesis.html"
+    - Exploring: "research/msthesis.html"
