@@ -20,9 +20,9 @@ author: Astrea Rojas
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "aboutme.html"
   Research:
-    - Exploring Brent-Kung Adders in Balanced Ternary CMOS Logic: "/research/msthesis"
+    - Exploring Brent-Kung Adders in Balanced Ternary CMOS Logic: "/research/msthesis.html"
 ################
 # --- Logo --- #
 ################
