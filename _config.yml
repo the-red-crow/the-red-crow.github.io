@@ -3,3 +3,7 @@ author: "Astrea Rojas"
 description: "The Radix-Gamma Project."
 baseurl: "/"
 url: "https://the-red-crow.github.io"
+navbar-links:
+  About Me: "aboutme"
+  Research:
+    - Exploring: "research\msthesis.html"
