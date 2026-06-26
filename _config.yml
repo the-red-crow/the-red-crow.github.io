@@ -1,9 +1,8 @@
 title: "Radix-Gamma Labs"
 author: "Astrea Rojas"
 description: "The Radix-Gamma Project."
+theme: minima
 baseurl: "/"
 url: "https://the-red-crow.github.io"
-navbar-links:
-  About Me: "aboutme"
-  Research:
-    - Exploring: "research/msthesis.html"
+header_pages:
+  - aboutme.md
