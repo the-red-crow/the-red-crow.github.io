@@ -6,5 +6,5 @@ baseurl: "/"
 url: "https://the-red-crow.github.io"
 header_pages:
   - about.md
-  Research:
+  - Research:
     - msthesis.md
