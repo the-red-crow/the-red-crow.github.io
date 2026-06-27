@@ -5,6 +5,9 @@ theme: minima
 baseurl: "/"
 url: "https://the-red-crow.github.io"
 header_pages:
-  - about.md
-  - Research:
-    - research/msthesis.md
+  - title: About Me
+    url: about.md
+  - title: Research
+    subfolderitems:
+    - title: MS Research
+      url: research/msthesis.md
