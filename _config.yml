@@ -7,4 +7,4 @@ url: "https://the-red-crow.github.io"
 header_pages:
   - about.md
   - Research:
-    - msthesis.md
+    - research/msthesis.md
