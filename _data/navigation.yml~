@@ -1,13 +1,13 @@
 main:
 - title: "Home"
-  href: "/"
+  url: "/"
 
 - title: "About"
-  href: "/about.md"
+  url: "/about"
 
 - title: "Research"
   subcategories:
     - subtitle: "MS Thesis"
-      subhref: "/research/msthesis.md"
+      suburl: "/research/msthesis"
     - subtitle: "Trinity"
-      subhref: "/research/trinity.md"
+      suburl: "/research/trinity"
