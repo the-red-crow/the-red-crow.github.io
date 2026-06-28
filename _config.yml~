@@ -1,10 +1,13 @@
 title: "Radix-Gamma Labs"
 author: "Astrea Rojas"
 description: "The Radix-Gamma Project."
-theme: minima
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+  - jekyll-remote-theme
 baseurl: "/"
 url: "https://the-red-crow.github.io"
 nav_pages:
   - about.md
   - Research:
     - research/msthesis.md
+    - research/trinity.md
