@@ -4,6 +4,7 @@ description: "The Radix-Gamma Project."
 remote_theme: mmistakes/minimal-mistakes@4.28.0
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 baseurl: "/"
 url: "https://the-red-crow.github.io"
 nav_pages:
