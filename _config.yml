@@ -12,3 +12,7 @@ nav_pages:
   - Research:
     - research/msthesis.md
     - research/trinity.md
+sass:
+  implementation: sass-embedded # Use the latest Sass implementation
+postcss:
+  cache: false
