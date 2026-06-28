@@ -1,5 +1,5 @@
 ---
 layout: default
-title: "Radix-Gamma Labs"
+title: "Radix-γ Labs"
 ---
 <center>Radix-Gamma Labs</center>
