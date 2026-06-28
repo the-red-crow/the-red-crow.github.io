@@ -1,7 +1,7 @@
 title: "Radix-Gamma Labs"
 author: "Astrea Rojas"
 description: "The Radix-Gamma Project."
-theme: modernist
+theme: modernist@v0.2.0
 baseurl: "/"
 url: "https://the-red-crow.github.io"
 nav_pages:
