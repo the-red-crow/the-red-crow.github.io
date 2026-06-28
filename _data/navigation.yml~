@@ -1,13 +1,12 @@
-main:
-- title: "Home"
-  url: "/"
+- name: "Home"
+  link: "/"
 
-- title: "About"
-  url: "/about"
+- name: "About"
+  link: "/about"
 
-- title: "Research"
-  subcategories:
-    - subtitle: "MS Thesis"
-      suburl: "/research/msthesis"
-    - subtitle: "Trinity"
-      suburl: "/research/trinity"
+- name: "Research"
+  dropdown:
+    - name: "MS Thesis"
+      link: "/research/msthesis"
+    - name: "Trinity"
+      link: "/research/trinity"
