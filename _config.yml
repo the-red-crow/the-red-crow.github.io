@@ -1,6 +1,6 @@
-title: "Radix-Gamma Labs"
+title: "Radix-γ Labs"
 author: "Astrea Rojas"
-description: "The Radix-Gamma Project."
+description: "The Radix-γ Project."
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-remote-theme
