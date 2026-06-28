@@ -4,7 +4,7 @@ description: "The Radix-Gamma Project."
 theme: minima
 baseurl: "/"
 url: "https://the-red-crow.github.io"
-header_pages:
+nav_pages:
   - about.md
   - Research:
-    - msthesis.md
+    - research/msthesis.md
