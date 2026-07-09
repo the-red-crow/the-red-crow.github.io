@@ -11,4 +11,5 @@ Astrea Rojas is the founder of Radix-Gamma Labs.
 The Labs were inspired by thesis research during her Masters of Science in Applied Computer Science studies at Columbus State University.
 These foundational research topics are available [here](/research/msthesis.md) for public perusal.
 <br clear="left"/>
+
 # The Mission
