@@ -7,8 +7,5 @@
       link: "/research/msthesis"
     - name: "Trinity"
       link: "/research/trinity"
-- name: "The Rad-γ"
-  link: "/research/theradgamma"
-  dropdown:
-    - name: "Rγ Circuit Components"
-      link: "/research/rg/rgcircuit"
+    - name: "The Rad-γ"
+      link: "/research/theradgamma"
