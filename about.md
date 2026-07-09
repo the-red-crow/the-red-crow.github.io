@@ -5,7 +5,10 @@ subtitle: "The Lab, The Team, The Mission"
 ---
 # The Lab
 # The Team
-- <img width="612" height="612" alt="image" src="https://github.com/user-attachments/assets/84957599-c060-4264-8898-08b4462eedd7" /> Astrea Rojas
-  - This is a test of the description of myself.
+## Astrea Rojas
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/84957599-c060-4264-8898-08b4462eedd7">
+Astrea Rojas is the founder of Radix-Gamma Labs.
+The Labs were inspired by her research during her studies for her Masters of Science in Applied Computer Science from Columbus State University.
+These foundational research topics are available [here](/research/msthesis.md) for public perusal.
 
 # The Mission
