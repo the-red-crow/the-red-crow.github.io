@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Radix-γ Labs"
 subtitle: "Beyond Binary"
 ---
